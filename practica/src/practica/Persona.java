@@ -4,7 +4,7 @@ package practica;
 import java.io.*;
 /**
 * Write a description of class Personas here.
-* 
+* dd
 * @author (your name) 
 * @version (a version number or a date)
 */
