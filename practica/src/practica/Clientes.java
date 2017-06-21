@@ -3,7 +3,7 @@ package practica;
 
 /**
  * Write a description of class Clientes here.
- * 
+ * vbvb
  * @author (your name) 
  * @version (a version number or a date)
  */
