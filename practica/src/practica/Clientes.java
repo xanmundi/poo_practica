@@ -3,7 +3,11 @@ package practica;
 
 /**
  * Write a description of class Clientes here.
+<<<<<<< HEAD
  * 
+=======
+ * vbvb
+>>>>>>> refs/remotes/gitub/master
  * @author (your name) 
  * @version (a version number or a date)
  */

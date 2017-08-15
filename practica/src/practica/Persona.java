@@ -32,6 +32,7 @@ public class Persona implements Serializable
   
   public Persona(){}
   
+<<<<<<< HEAD
   public void setdni(String d)
   {
       nif=d;
@@ -60,6 +61,22 @@ public class Persona implements Serializable
       return email;
   }
       
+=======
+      public void setdni(String d)
+  {
+      nif=d;
+  }
+  
+  public String getNombre()
+  {
+      return nombre;
+  }
+  
+      public String getNIF()
+  {
+      return nif;
+  }
+>>>>>>> refs/remotes/gitub/master
 
   /**
    * Print details of this item to the text terminal.

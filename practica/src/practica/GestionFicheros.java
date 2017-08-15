@@ -229,4 +229,8 @@ public class GestionFicheros
     return p;
   }
                 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> refs/remotes/gitub/master

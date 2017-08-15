@@ -54,6 +54,7 @@ public class ListadoPersonas
     
     }
     
+<<<<<<< HEAD
     public void nuevoCliente(String a, String b, String c)
     {
         p=gf.leerFichero();
@@ -102,6 +103,8 @@ public class ListadoPersonas
     	return pers;
 }
     
+=======
+>>>>>>> refs/remotes/gitub/master
     public void printArray()
     {
         ArrayList<Persona> p= gf.leerFichero();
